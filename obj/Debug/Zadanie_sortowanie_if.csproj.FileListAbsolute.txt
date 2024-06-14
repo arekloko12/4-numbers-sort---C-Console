@@ -1,0 +1,21 @@
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\bin\Debug\Zadanie_sortowanie_if.exe.config
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\bin\Debug\Zadanie_sortowanie_if.exe
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\bin\Debug\Zadanie_sortowanie_if.pdb
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\obj\Debug\Zadanie_sortowanie_if.csproj.AssemblyReference.cache
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\obj\Debug\Zadanie_sortowanie_if.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\obj\Debug\Zadanie_sortowanie_if.exe
+C:\Users\Arek\Desktop\Zadanie_sortowanie_if\obj\Debug\Zadanie_sortowanie_if.pdb
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\bin\Debug\Zadanie_sortowanie_if.exe.config
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\bin\Debug\Zadanie_sortowanie_if.exe
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\bin\Debug\Zadanie_sortowanie_if.pdb
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\obj\Debug\Zadanie_sortowanie_if.csproj.AssemblyReference.cache
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\obj\Debug\Zadanie_sortowanie_if.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\obj\Debug\Zadanie_sortowanie_if.exe
+C:\Users\Arek\Desktop\Algorytm_sortowania_4_liczb_if\obj\Debug\Zadanie_sortowanie_if.pdb
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\bin\Debug\Zadanie_sortowanie_if.exe.config
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\bin\Debug\Zadanie_sortowanie_if.exe
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\bin\Debug\Zadanie_sortowanie_if.pdb
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\obj\Debug\Zadanie_sortowanie_if.csproj.AssemblyReference.cache
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\obj\Debug\Zadanie_sortowanie_if.csproj.CoreCompileInputs.cache
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\obj\Debug\Zadanie_sortowanie_if.exe
+D:\C#\Visual Studio\Console Apps\! Algorytm_sortowania_4_liczb_if !\obj\Debug\Zadanie_sortowanie_if.pdb
